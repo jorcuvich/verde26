@@ -1,0 +1,79 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g6",
+  "respostas": {
+    "e1": {
+      "papeis": {
+        "Samuel": [
+          "coord",
+          "mat",
+          "com"
+        ],
+        "Gabriel": [
+          "bio",
+          "com"
+        ],
+        "Isadora": [
+          "coord",
+          "qui"
+        ]
+      },
+      "forcas": {
+        "sel": [
+          "Fazer contas",
+          "Mexer no celular e no computador",
+          "Cozinhar",
+          "Pesquisar",
+          "Organizar"
+        ],
+        "outro": ""
+      },
+      "combinados": "Vamos nos reunir na escola se precisar Vamos conversar pelo whatsapp",
+      "nome_equipe": "Ciclo Verde"
+    },
+    "e2": {
+      "ja_sabemos": "O biodigestor aproveita a matéria orgânica (restos de refeições ou dejetos) para produzir energia limpa e adubo rico em nutrientes. Em um ambiente fechado sem oxigênio, bactérias devoram esses resíduos e soltam gás metano.",
+      "duvidas": "Quanto biogás um biodigestor pequeno produz com os restos da cantina?\nO biofertilizante faz as plantas crescerem mais?\nPara quem um biodigestor seria um bom negócio (sítio, restaurante, escola)?",
+      "fontes": {
+        "sel": [
+          "Inteligência artificial (conferindo depois)"
+        ],
+        "outro": ""
+      }
+    },
+    "e3": {
+      "problema": "Para analisarmos o problema da Missão 3 de forma bem precisa, me digam:\n\nQual é o texto exato do problema que vocês pensaram até agora para a Missão 3?\n\nQual é a pergunta de investigação atual de vocês?\n\nQual é o local específico onde vão focar o estudo (ex.: a cantina da escola, uma feira livre ou um restaurante próximo)?",
+      "onde": "Em Foz do Iguaçu",
+      "afetados": "Os mais prejudicados são Pessoas, animais",
+      "evidencias": "Segundo o site ",
+      "tamanho": "nao sei\n",
+      "pergunta": "Como podemos ajudar\n"
+    }
+  },
+  "diario": [
+    {
+      "id": "d1790339748036",
+      "data": "2026-09-25",
+      "tipo": "O que fizemos",
+      "autor": "Equipe toda",
+      "texto": "Missão 1: Como vocês já fecharam a Missão 1 (Ciclo Verde), o prazo total de 5 semanas bate certinho com o cronograma. Não estamos atrasados, mas a biologia do biodigestor demora para reagir!Por conta do limite de tamanho, dividi nosso plano em partes. Esta é a Parte 1.1. Metas da semana (medidas na prática)Completar 100% das perguntas das Missões 2 e 3 na plataforma até o fim da semana.Definir o tipo de resíduo [DECIDIR] (ex.: restos da cantina ou cascas de frutas de casa) e conseguir 2 kg para o teste.Montar a garrafa do mini-biodigestor até sexta-feira para começar a fermentação [MEDIR].2. Tarefas da semanaQuemO quêOndeTempoPronto quandoSamuelCoordenar prazos e calcular volume de resíduo diário da cantinaSala / Casa40 minPlanilha com contas prontasIsadoraPesquisar a Química (gases e PH/acidez da mistura)Casa45 minResumo de 1 página feitoGabrielPesquisar a Biologia (bactérias que geram o gás e o adubo)Casa45 minResumo de 1 página feito"
+    }
+  ],
+  "usoPrompts": [
+    {
+      "id": "p_semana",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_mapa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_problema",
+      "data": "2026-09-25"
+    }
+  ],
+  "atualizado": "2026-09-25T13:21:55.725Z",
+  "exportado": "2026-09-25T13:21:55.725Z"
+}

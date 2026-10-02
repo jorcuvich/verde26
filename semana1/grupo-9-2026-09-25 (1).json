@@ -1,0 +1,88 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g9",
+  "respostas": {
+    "e1": {
+      "papeis": {
+        "Manuela K.": [
+          "bio",
+          "com"
+        ],
+        "Pedro": [
+          "qui",
+          "mat",
+          "com"
+        ],
+        "Vitória": [
+          "coord",
+          "mat",
+          "com"
+        ]
+      },
+      "forcas": {
+        "sel": [
+          "Desenhar",
+          "Mexer no celular e no computador",
+          "Cozinhar",
+          "Pesquisar",
+          "Organizar"
+        ],
+        "outro": ""
+      },
+      "combinados": "Vamos nos reunir na casa da vitória líder do grupo. Vamos conversar pelo whatsapp. Se alguém não conseguir fazer a tarefa, todos iram fazer, pois, se o combinado não for cumprido o nome será retirado do trabalho.",
+      "nome_equipe": "pograma"
+    },
+    "e2": {
+      "ja_sabemos": " Sabemos que o lixo descartado de forma errada polui os rios de Foz (Biologia), que resíduos podem virar novos produtos por transformação (Química) e que podemos medir a quantidade e os custos de tudo isso (Matemática).",
+      "duvidas": "O que acontece quando não reaproveitamos os materiais, \nE como transformamos eles em algo novo.",
+      "fontes": {
+        "sel": [
+          "Sites do governo",
+          "Inteligência artificial (conferindo depois)"
+        ],
+        "outro": ""
+      }
+    },
+    "e3": {
+      "problema": "Pneus Abandonados, Óleo de Cozinha Usado, Paletes e Madeiras Descartadas.",
+      "onde": "Em Foz do Iguaçu",
+      "afetados": "Uma comunidade de pessoas no geral. A natureza, incluindo animais, plantas, rios e etc.",
+      "evidencias": "Nós vimos que a situação em que o mundo vive é deplorável e deve ser questionada.",
+      "tamanho": "Exemplo 1: Óleo de cozinha descartado\n\nDADO DE FONTE: 1 pessoa gera cerca de 1 litro (L) de óleo usado por mês [VERIFICAR: Sanepar].\n\nESTIMATIVA: Uma rua com 20 casas e 4 pessoas por casa (80 pessoas no total).\n\nConta passo a passo:\n\nNo mês: 1 L/pessoa × 80 pessoas = 80 L de óleo por mês.\n\nNo ano: 80 L/mês × 12 meses = 960 L de óleo por ano poluindo a rede de esgoto.\n\nExemplo 2: Paletes de madeira descartados\n\nESTIMATIVA: Um pequeno mercado de bairro joga fora 2 paletes por semana. Cada palete pesa 20 kg.\n\nConta passo a passo:\n\nNa semana: 2 paletes × 20 kg = 40 kg por semana.\n\nNo mês: 40 kg/semana × 4 semanas = 160 kg de madeira descartada por mês.\n\nExemplo 3: Lixo reciclável da própria casa [DADO NOSSO]\n\nConta passo a passo: Pesar o material descartado na sua casa por dia [MEDIR]:\n0,5 kg por dia × 30 dias = 15 kg por mês por família.",
+      "pergunta": "Como podemos reutilizar e transformar o lixo, no nosso bairro."
+    }
+  },
+  "diario": [
+    {
+      "id": "d1790339366909",
+      "data": "2026-09-25",
+      "tipo": "O que fizemos",
+      "autor": "Equipe toda",
+      "texto": "Missão 1: Opções de Tema [DECIDIR]\nSabão com óleo usado: Excelente ideia, mas exige cura (tempo de reação química e secagem) de até 30 dias. [SÓ COM O PROFESSOR]\n\nBioplástico (amido de milho/batata): Rápido de testar, mas pode rasgar fácil se a mistura falhar.\n\nPapel reciclado com fibras/cascas: Barato, simples e seca em 2 a 3 dias.\n\n1. Metas da Semana 1\nPreencher 100% das perguntas das Missões 2 e 3 na plataforma.\n\nEscolher [DECIDIR] 1 tipo de resíduo para transformar.\n\nDefinir 1 problema local de Foz do Iguaçu ligado a esse resíduo.\n\n2. Tabela de Tarefas\nQuem\tO quê\tOnde\tTempo\tPronto quando\nManuela K.\tPesquisar resíduos comuns em Foz [VERIFICAR: Prefeitura/Sanepar]\tCasa\t40 min\t1 página de anotações no caderno\nPedro\tCalcular estimativa de lixo gerado por uma família no mês\tCasa\t30 min\tContas passo a passo no caderno\nVitória\tCoordenar prazos no WhatsApp e preencher Missões 2 e 3\tSala / Casa\t45 min\tMissões 2 e 3 salvas em 100%\n3. Riscos de Atraso\nProcessos lentos: A cura (tempo de secagem ou de reação química do material) leva de 1 a 3 semanas. Se deixarmos para depois, o protótipo não estará pronto no dia 30/10!\n\nComeçar JÁ: Escolher o resíduo e começar a juntar a matéria-prima nesta semana.\n\n4. Plano de Recuperação\nSe a equipe se atrasar na escolha: façam uma votação rápida no WhatsApp até segunda-feira, às 12h. A opção mais votada ganha e o trabalho segue.\n\n5. Checklist da Semana\n[ ] Missões 2 e 3 preenchidas em 100% na plataforma.\n\n[ ] Tipo de resíduo definido pela equipe [DECIDIR].\n\n[ ] Quantidade inicial do resíduo recolhida [MEDIR].\n\n6. Diário de Bordo\nAnotem na pasta do grupo: data, integrantes presentes, resíduo escolhido e o problema local identificado em Foz do Iguaçu.\n\nO que fazer agora\n\nCoordenação (Vitória): Abrir a votação do tema no grupo de WhatsApp hoje.\n\nBiologia (Manuela K.): Listar 2 impactos desse resíduo no meio ambiente local.\n\nQuímica/Matemática (Pedro): Pesquisar como transformar esse resíduo e fazer uma estimativa de custos."
+    },
+    {
+      "id": "d1790340480071",
+      "data": "2026-09-25",
+      "tipo": "O que fizemos",
+      "autor": "Equipe toda",
+      "texto": "Missão 3: A IA ajudou a nos organizarmos para realizar o projeto."
+    }
+  ],
+  "usoPrompts": [
+    {
+      "id": "p_semana",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_semana",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    }
+  ],
+  "atualizado": "2026-09-25T13:07:50.996Z",
+  "exportado": "2026-09-25T13:07:50.997Z"
+}

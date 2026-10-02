@@ -1,0 +1,56 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g11",
+  "respostas": {
+    "e1": {
+      "papeis": {
+        "Maria V. S.": [
+          "coord",
+          "com"
+        ],
+        "Maria Eduarda": [
+          "bio",
+          "qui",
+          "mat"
+        ],
+        "Lucas": [
+          "bio",
+          "qui",
+          "mat"
+        ]
+      },
+      "forcas": {
+        "sel": [
+          "Falar em público",
+          "Mexer no celular e no computador",
+          "Organizar"
+        ],
+        "outro": ""
+      },
+      "combinados": "Vamos nos reunir na casa de um dos participantes do grupo, e assim iremos organizar e conversar sobre a organização da feira. Vamos conversar pelo grupo de whatsapp. Se alguém não conseguir fazer a tarefa, avisaremos o professor.",
+      "nome_equipe": "madulu"
+    },
+    "e2": {
+      "ja_sabemos": "Nós sabemos que os alunos costumam jogar muitos lixos plásticos pela escola durante o recreio escolar.",
+      "duvidas": "Como podemos combater o descarte de resíduos e lixos pela escola?\nO que queremos melhorar?\nqual o valor do projeto?",
+      "fontes": {
+        "sel": [
+          "Sites do governo",
+          "Entrevista com alguém que entende do assunto",
+          "Inteligência artificial (conferindo depois)"
+        ],
+        "outro": ""
+      }
+    }
+  },
+  "diario": [],
+  "usoPrompts": [
+    {
+      "id": "p_semana",
+      "data": "2026-09-25"
+    }
+  ],
+  "atualizado": "2026-09-25T12:45:14.155Z",
+  "exportado": "2026-09-25T12:45:14.156Z"
+}

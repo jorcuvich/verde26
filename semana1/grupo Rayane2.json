@@ -1,0 +1,153 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g1",
+  "respostas": {
+    "e1": {
+      "papeis": {
+        "Adryan": [
+          "com"
+        ],
+        "Rayane": [
+          "coord",
+          "qui"
+        ],
+        "Pietro Tavares": [
+          "mat",
+          "com"
+        ],
+        "Josué": [
+          "bio"
+        ]
+      },
+      "forcas": {
+        "sel": [
+          "Desenhar",
+          "Escrever",
+          "Falar em público",
+          "Construir e montar coisas",
+          "Fazer vídeos e posts",
+          "Pesquisar",
+          "Organizar"
+        ],
+        "outro": ""
+      },
+      "combinados": "Vamos nos reunir na casa de um dos integrantes para montar o workshop, vamos conversar pelo celular e na sala, se alguém não fizer a parte dele, irá apresentar.",
+      "nome_equipe": "Equipe RayRay"
+    },
+    "e2": {
+      "ja_sabemos": "Já sabemos quais resíduos produzimos em sala e a quantidade.",
+      "duvidas": "Por que produzimos bastante lixo em sala?\nQuanto de lixo é produzido em um ano?\nO que acontece quando o gari recolhe a sacola de lixo produzida em sala?",
+      "fontes": {
+        "sel": [
+          "Livro didático",
+          "Sites do governo",
+          "Inteligência artificial (conferindo depois)"
+        ],
+        "outro": ""
+      }
+    },
+    "e3": {
+      "problema": "No mundo todo, muitas pessoas ainda jogam lixo no chão, e isso causa entupimento de bueiros, enchentes, proliferação de doenças e grave poluição ambiental.",
+      "onde": "Nas nossas casas",
+      "afetados": "Isso prejudica o mundo todo, não importa quem seja.",
+      "evidencias": "Nós vimos que a maioria das vezes ocorre alagamentos por causa do entupimento de bueiros com lixo",
+      "tamanho": "Cada brasileiro produz em média de 1kg a 1,14kg de resíduos por dia.",
+      "pergunta": "Podemos parar de jogar lixo em lugares impróprios."
+    },
+    "e4": {
+      "ideias_brutas": "Colocar mais lixeiras na rua.\nNão jogar lixos na rua.\nAjudar com a limpeza da cidade.\n",
+      "tipo_solucao": "Um serviço (algo que se faz para alguém)",
+      "ideia": "Ela resolve o problema porque quanto mais ajudarmos a manter a cidade limpa, mas rápido ela vai se recuperar da poluição ambiente."
+    }
+  },
+  "diario": [
+    {
+      "id": "d1790341869624",
+      "data": "2026-09-25",
+      "tipo": "O que fizemos",
+      "autor": "Equipe toda",
+      "texto": "Missão 1: Hoje nós decidimos como vamos organizar o trabalho"
+    }
+  ],
+  "usoPrompts": [
+    {
+      "id": "p_semana",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_semana",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_mapa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_mapa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_mapa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    }
+  ],
+  "atualizado": "2026-09-25T13:15:11.984Z",
+  "exportado": "2026-09-25T13:15:11.985Z"
+}

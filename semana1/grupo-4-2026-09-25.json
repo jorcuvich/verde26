@@ -1,0 +1,51 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g4",
+  "respostas": {
+    "e1": {
+      "papeis": {
+        "Eloah": [
+          "coord",
+          "mat"
+        ],
+        "Juliana": [
+          "bio",
+          "qui"
+        ],
+        "Ana Isabelly": [
+          "com"
+        ]
+      },
+      "forcas": {
+        "sel": [
+          "Desenhar",
+          "Escrever",
+          "Falar em público",
+          "Mexer no celular e no computador",
+          "Construir e montar coisas",
+          "Fazer vídeos e posts",
+          "Cozinhar",
+          "Pesquisar",
+          "Organizar"
+        ],
+        "outro": ""
+      },
+      "combinados": "Vamos nos reunir nas aulas, Vamos conversar pelo whatsapp e na aula, Se alguém não conseguir fazer a tarefa, fica sem nota",
+      "nome_equipe": "As esquiletes"
+    }
+  },
+  "diario": [],
+  "usoPrompts": [
+    {
+      "id": "p_semana",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_semana",
+      "data": "2026-09-25"
+    }
+  ],
+  "atualizado": "2026-09-25T13:17:34.676Z",
+  "exportado": "2026-09-25T13:17:34.677Z"
+}

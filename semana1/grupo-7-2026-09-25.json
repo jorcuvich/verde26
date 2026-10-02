@@ -1,0 +1,67 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g7",
+  "respostas": {
+    "e1": {
+      "papeis": {
+        "Manuela H.": [
+          "bio",
+          "mat"
+        ],
+        "Rafaella": [
+          "qui",
+          "com"
+        ],
+        "Geovanna M.": [
+          "coord",
+          "com"
+        ]
+      },
+      "forcas": {
+        "sel": [
+          "Escrever",
+          "Fazer vídeos e posts",
+          "Vender e negociar",
+          "Pesquisar"
+        ],
+        "outro": ""
+      },
+      "combinados": "Vamos nos reunir e conversar sobre oque cada uma vai fazer e organizar por partes, caso alguém não faça sua parte a gente informa o professor.",
+      "nome_equipe": "equipe 123"
+    },
+    "e2": {
+      "ja_sabemos": "Sabemos que são produtos usados diariamente e iremos coletar.",
+      "duvidas": "Quanto óleo usado as famílias da escola descartam por mês?\nQual receita produz um sabão seguro (pH adequado) e que limpa bem?\nQuanto custa produzir uma barra, e por quanto dá para vender?",
+      "fontes": {
+        "sel": [
+          "Sites do governo",
+          "Entrevista com alguém que entende do assunto",
+          "Inteligência artificial (conferindo depois)"
+        ],
+        "outro": ""
+      }
+    },
+    "e3": {
+      "problema": "Em Foz do Iguaçu, e isso causa m",
+      "onde": "Nas nossas casas",
+      "afetados": " Os mais prejudicados são os rios e as pessoas.",
+      "evidencias": "Conversamos com familiares e pessoas que ja reutilizam óleo de cozinha para fazer sabão.",
+      "tamanho": "1 a 3 litros por dia.",
+      "pergunta": "Como podemos reutilizar o óleo de cozinha usado para produzir sabão e diminuir a contaminação da água na nossa escola?"
+    }
+  },
+  "diario": [],
+  "usoPrompts": [
+    {
+      "id": "p_semana",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_semana",
+      "data": "2026-09-25"
+    }
+  ],
+  "atualizado": "2026-09-25T13:18:26.657Z",
+  "exportado": "2026-09-25T13:18:26.657Z"
+}
