@@ -1,0 +1,95 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g11",
+  "respostas": {
+    "e1": {
+      "papeis": {
+        "Maria V. S.": [
+          "coord",
+          "com"
+        ],
+        "Maria Eduarda": [
+          "bio",
+          "qui",
+          "mat"
+        ],
+        "Lucas": [
+          "bio",
+          "qui",
+          "mat"
+        ]
+      },
+      "forcas": {
+        "sel": [
+          "Falar em público",
+          "Mexer no celular e no computador",
+          "Organizar"
+        ],
+        "outro": ""
+      },
+      "combinados": "Vamos nos reunir na casa de um dos participantes do grupo, e assim iremos organizar e conversar sobre a organização da feira. Vamos conversar pelo grupo de whatsapp. Se alguém não conseguir fazer a tarefa, avisaremos o professor.",
+      "nome_equipe": "madulu"
+    },
+    "e2": {
+      "ja_sabemos": "Nós sabemos que os alunos costumam jogar muitos lixos plásticos pela escola durante o recreio escolar.",
+      "duvidas": "Como podemos combater o descarte de resíduos e lixos pela escola?\nO que queremos melhorar?\nqual o valor do projeto?",
+      "fontes": {
+        "sel": [
+          "Sites do governo",
+          "Entrevista com alguém que entende do assunto",
+          "Inteligência artificial (conferindo depois)"
+        ],
+        "outro": ""
+      }
+    },
+    "e3": {
+      "problema": "Na nossa escola, acontece muito o descarte de resíduos de forma incorreta pelos corredores e refeitório.",
+      "onde": "Na escola",
+      "afetados": "Os mais prejudicados são os funcionários da limpeza.",
+      "evidencias": "Nós vimos que isso acontece muito.",
+      "tamanho": "Por mês são 150kg de lixos descartados.",
+      "pergunta": "Como podemos combater o descarte incorreto na escola?"
+    },
+    "e4": {
+      "ideias_brutas": "Projetos com temas sustentáveis.\nPrograma de monitores ambientais por turma.\nAulas sobre sustentabilidade.",
+      "tipo_solucao": "Uma campanha na escola",
+      "ideia": "Nossa ideia é programar diversos projetos escolares de combate ao descarte incorreto do lixo pelo ambiente escolar.",
+      "como_funciona": "1. Primeiro, aumentaremos as lixeiras para descartes de lixo em proximidade ao refeitório. escolar.\n2. Depois, montaremos projetos sociais de conscientização.\n3. Em seguida, colocaremos nossos projetos em prática aos poucos.\n4. Por fim, veremos e calcularemos se o resultado foi positivo.",
+      "publico": "Quem vai usar são todos do ambiente escolar, alunos, professores, funcionários e monitores.",
+      "proposta_valor": "É melhor do que o que já existe porque é mais um incentivo para a colaboração do ambiente escolar.",
+      "nome_negocio": "Conscientização do descarte incorreto."
+    },
+    "e7": {
+      "var_indep": "As amostras vão ser: sacos de lixo bioplástico.",
+      "grandezas": "Vamos medir os kg de lixos de todo mês.",
+      "var_ctrl": "Vai ficar igual: sacos biodegradáveis, quantidade de lixos, tamanho de sacos plásticos utilizados para recolher os lixos.\n",
+      "repeticoes": "3 vezes",
+      "plano_coleta": "Vamos usar contagens.\n",
+      "hipotese": "Nós achamos que os sacos plásticos irão influenciar na quantidade ",
+      "ferramentas_mat": {
+        "sel": [
+          "Pesquisa de opinião com gráficos",
+          "Comparação antes e depois"
+        ],
+        "outro": ""
+      }
+    },
+    "e8": {
+      "prototipo": "A primeira versão vai ser sacos de lixo biodegradáveis.",
+      "materiais": "garrafas PET",
+      "procedimento": "1. montaremos uma ideia.",
+      "seguranca": "Só o professor vai nos ajudar.\n",
+      "supervisao": "Ainda não"
+    }
+  },
+  "diario": [],
+  "usoPrompts": [
+    {
+      "id": "p_semana",
+      "data": "2026-09-25"
+    }
+  ],
+  "atualizado": "2026-10-02T13:38:35.803Z",
+  "exportado": "2026-10-02T13:38:35.804Z"
+}

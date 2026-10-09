@@ -1,0 +1,42 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g7",
+  "respostas": {
+    "e4": {
+      "ideias_brutas": "1. produzir sabão caseiro usando óleo de cozinha usado.\n2. evitar jogar o óleo de cozinha na pia, pois contamina a água.\n3. arrecadar o óleo entre várias pessoas e fazer sabão.",
+      "tipo_solucao": "Um serviço (algo que se faz para alguém)",
+      "ideia": "Nossa ideia é reutilizar o óleo de cozinha usado para produzir sabão e evitar que ele seja jogado na pia.",
+      "como_funciona": "primeiro junar o óleo, depois coar e separa os materiais e por fim colocar a mistura em formas e esperar endurecer.",
+      "publico": "famílias, escolas e outros locais que utilizam o produto.",
+      "proposta_valor": "Elas comprariam porque o sabão seria mais barato.",
+      "nome_negocio": "EcoSabão."
+    },
+    "e7": {
+      "var_indep": "Vamos mudar a quantidade de óleo de cozinha usado.",
+      "grandezas": "a quantidade de sabão produzido.",
+      "var_ctrl": "a quantidade de água, o recipiente, o local etc",
+      "repeticoes": "3 vezes",
+      "plano_coleta": "vamos usar uma balança para medir o sabão, e vamos medir no primeiro segundo e terceiro dia",
+      "hipotese": "nos achamos que o sabão vai ficar mais consistente",
+      "ferramentas_mat": {
+        "sel": [
+          "Rendimento: litros de óleo → número de barras",
+          "Custo por barra, preço, margem e ponto de equilíbrio"
+        ],
+        "outro": ""
+      }
+    },
+    "e8": {
+      "prototipo": "uma versão simples do protótipo",
+      "materiais": "óleo de cozinha, soda cáustica, água, recipiente, balança",
+      "procedimento": "1. coar o óleo de cozinha\n2. separar os materiais e colocar em um recipiente\n3. misturar os ingredientes\n4. colocar a mistura nas formas reutilizadas\n5. por fim, deixar o sabão descansar até endurecer",
+      "seguranca": "ter cuidados com objetos cortantes e quentes",
+      "supervisao": "Ainda não"
+    }
+  },
+  "diario": [],
+  "usoPrompts": [],
+  "atualizado": "2026-10-02T13:36:26.807Z",
+  "exportado": "2026-10-02T13:36:26.808Z"
+}

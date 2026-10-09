@@ -1,0 +1,73 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g10",
+  "respostas": {
+    "e1": {
+      "papeis": {
+        "Isabel": [
+          "bio",
+          "com"
+        ],
+        "Ana Clara": [
+          "mat",
+          "com"
+        ],
+        "Ana Clara Prestes": [
+          "coord",
+          "bio",
+          "com"
+        ],
+        "Luciano": [
+          "coord",
+          "qui"
+        ]
+      },
+      "forcas": {
+        "sel": [
+          "Desenhar",
+          "Falar em público",
+          "Mexer no celular e no computador",
+          "Construir e montar coisas"
+        ],
+        "outro": ""
+      },
+      "combinados": "Vamos nos reunir na escola",
+      "nome_equipe": "SuperAmigos dos 6R"
+    },
+    "e2": {
+      "ja_sabemos": "conceito dos 6r\n",
+      "duvidas": "qual dos 6r é o menos praticado?",
+      "fontes": {
+        "sel": [
+          "Livro didático",
+          "Sites do governo",
+          "Entrevista com alguém que entende do assunto",
+          "Inteligência artificial (conferindo depois)"
+        ],
+        "outro": ""
+      }
+    },
+    "e3": {
+      "problema": "nao ter conhecimento sobre os 6r e praticar eles para ajuda o meio ambiente\n",
+      "onde": "Em Foz do Iguaçu",
+      "afetados": "meio ambiente",
+      "evidencias": "muito materiais reciclados jogados no lixo",
+      "tamanho": "50% dos moradores de foz nao praticam os 6r",
+      "pergunta": "Como podemos reutilizar materiais reciclaveis?\n"
+    },
+    "e4": {
+      "ideias_brutas": "reutilizar materiais que seriam jogados no lixo\n",
+      "tipo_solucao": "Uma campanha na escola",
+      "ideia": "fazer uma exposiçao de materiais reaproveitados ",
+      "como_funciona": "pegams residuos que seriam jogado fora e damos um novo proposito",
+      "publico": "as pessoas vao aderir as ideias",
+      "proposta_valor": "porque ajuda o meio ambiente",
+      "nome_negocio": "Reutilize+"
+    }
+  },
+  "diario": [],
+  "usoPrompts": [],
+  "atualizado": "2026-10-02T13:30:42.776Z",
+  "exportado": "2026-10-02T13:30:42.777Z"
+}

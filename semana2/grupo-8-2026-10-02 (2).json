@@ -1,0 +1,64 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g8",
+  "respostas": {
+    "e2": {
+      "ja_sabemos": "nos sabemos que polimeros sao os plasticos do dia a dia\n",
+      "duvidas": "Por que alguns polimeros não podem ser reciclados?\nQuanto tempo um polimero demora para se decompor na natureza?\nComo funciona o processo de reciclagem dos plasticos no brasil\n",
+      "fontes": {
+        "sel": [
+          "Inteligência artificial (conferindo depois)"
+        ],
+        "outro": ""
+      }
+    },
+    "e4": {
+      "ideias_brutas": "transformar garrafas PET em vasos e material escolar para a escola\ncriar lixeiras coloridas e sinalizadas so para polimeros reciclaveis no colegio\nfazer uma campanha de coleta de tampinhas para trocar por ração ou reciclado",
+      "tipo_solucao": "Um kit ou oficina para ensinar",
+      "ideia": "nossa ideia e fazer sabao com oleo velho e apresentar pra escola.\n",
+      "como_funciona": "trazemos o oleo e começamos a fazer o sabão ",
+      "publico": "tias da limpeza ou etc",
+      "proposta_valor": "sabão e muito utilizado no dia a dia ",
+      "nome_negocio": "Eco Escola"
+    },
+    "e7": {
+      "var_indep": "vamos deixar os sabao em cima da mesa para poderem ver ",
+      "grandezas": "vamos medir a quantidade de oleo usado e a quantidade de sabão produzido em litros ",
+      "var_ctrl": "vai ficar igual a quantidade de agua ",
+      "repeticoes": "3 vezes",
+      "plano_coleta": "vamos usar a balança para pesar o sabao em kg",
+      "hipotese": "vamos produzir mais sabao e de otima qualidade\n",
+      "ferramentas_mat": {
+        "sel": [
+          "Valor de mercado por kg de reciclável",
+          "Receita estimada de uma coleta"
+        ],
+        "outro": ""
+      }
+    },
+    "e8": {
+      "prototipo": "sabao",
+      "materiais": "garrafas pet,oleo,agua,balanca,colher de pau",
+      "procedimento": "vestir luvas,dissolver agua,misturar o oleo e agua",
+      "seguranca": "vamos usar luvas,oculos de proteção e mascaras",
+      "supervisao": "Sim"
+    },
+    "e5": {
+      "conceitos_bio": {
+        "sel": [
+          "Microplásticos e nanoplásticos nos seres vivos"
+        ],
+        "outro": ""
+      },
+      "seres_vivos": "humanos",
+      "processo_bio": "o sabao e feito para limpar e previnir bacterias e um ambiente limpo",
+      "saude": "nao afeta",
+      "demo_bio": "vamos mostra na feira duas garrafas pet com agua,uma limpa e uma com oleo por cima para o pessoal ver como o oleo bloqueia o oxigenio"
+    }
+  },
+  "diario": [],
+  "usoPrompts": [],
+  "atualizado": "2026-10-02T12:44:38.361Z",
+  "exportado": "2026-10-02T12:44:38.361Z"
+}

@@ -1,0 +1,176 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g5",
+  "respostas": {
+    "e1": {
+      "papeis": {
+        "Marina": [
+          "qui",
+          "com"
+        ],
+        "Sofia": [
+          "coord",
+          "mat",
+          "com"
+        ],
+        "Luna": [
+          "bio",
+          "com"
+        ]
+      },
+      "forcas": {
+        "sel": [
+          "Desenhar",
+          "Escrever",
+          "Cozinhar",
+          "Pesquisar",
+          "Organizar"
+        ],
+        "outro": ""
+      },
+      "combinados": "Vamos conversar pelo watts. Se alguém não conseguir fazer a tarefa, ajudamos ela",
+      "nome_equipe": "compostoras"
+    },
+    "e2": {
+      "ja_sabemos": "Já ouvimos falar que a compostagem ajuda a terra, a ter melhores adubos",
+      "duvidas": "Quanto resíduo orgânico a escola ou o bairro poderia compostar?\nQual mistura de materiais produz composto mais rápido e sem cheiro?\nQuem compraria o composto, e por quanto?",
+      "fontes": {
+        "sel": [
+          "Sites do governo",
+          "Embrapa ou universidades",
+          "Entrevista com alguém que entende do assunto"
+        ],
+        "outro": ""
+      }
+    },
+    "e3": {
+      "problema": "No nosso bairro, a compostagem é menos usada, se fosse seria muito melhor pra todos. ",
+      "onde": "Nas nossas casas",
+      "afetados": "os animais, plantas, e rios, que podem poluir ",
+      "evidencias": "Conversamos com alguns professores, e eles explicou para nós",
+      "tamanho": "Por dia são mais ou menos 3 kg em cada cafeteria. 3 kg × 2 cafeterias = 6 kg por dia. 6 kg × 26 dias ",
+      "pergunta": "Como podemos usar a compostagem"
+    },
+    "e4": {
+      "ideias_brutas": "Terra para mudas com borra\nVela com cheiro de café\nAdubo líquido",
+      "tipo_solucao": "Um kit ou oficina para ensinar",
+      "ideia": "Juntar o maximo de restos de comida para fazer adubo",
+      "como_funciona": "1. Primeiro, coletamos sobras da escola\n2. Depois, deixamos em um lugar arejaddo\n3. Em seguida, misturamos com terra na quantidade que testamos\n4. Por fim, colocamos nos sacos, etiquetamos e vendemos1\n",
+      "publico": "Quem vai comprar são os que precisa de adubo para plantar coisas",
+      "proposta_valor": "Elas comprariam porque é útil para quem tem fazenda, como exemplo",
+      "nome_negocio": "workshop"
+    },
+    "e7": {
+      "var_indep": "por enquanto nada\n",
+      "grandezas": "as plantas que podemos usar\n",
+      "var_ctrl": "nao sei",
+      "repeticoes": "4 vezes ou mais",
+      "plano_coleta": "Vamos usar uma régua",
+      "hipotese": "Nós achamos que vai dar certo\n",
+      "ferramentas_mat": {
+        "sel": [
+          "Custo por kg e preço de venda"
+        ],
+        "outro": ""
+      }
+    },
+    "e8": {
+      "prototipo": "A primeira versão vai ser algo útil para que qualquer pessoa use",
+      "materiais": "garrafas PET\npotes\nrégua\nluvas\n",
+      "procedimento": "1. coletar \n2. fazer a mistura\n3. deixar secando\n4. ver todos os dias como vai estar\n5. e vai estar pronto",
+      "seguranca": "Vamos usar luvas, para não acontecer nada",
+      "supervisao": "Ainda não"
+    },
+    "e5": {
+      "conceitos_bio": {
+        "sel": [
+          "Fases da compostagem (mesófila, termófila, resfriamento, maturação)"
+        ],
+        "outro": ""
+      },
+      "seres_vivos": "Os seres vivos envolvidos são as sementes e mudas de alface, os micróbios que decompõem a borra e os fungos (mofo). O papel deles é crescer (alface) e decompor (micróbios).",
+      "processo_bio": "O que acontece é que a semente absorve água e começa a crescer (germinação). Isso acontece porque o embrião dentro da semente acorda. Mas a cafeína da borra pode atrapalhar esse processo.\n",
+      "saude": "Isso afeta o ambiente porque menos borra vai para o aterro e menos metano vai para o ar.",
+      "demo_bio": "vamos mostrar ADUBOS E BORROS"
+    },
+    "e6": {
+      "conceitos_qui": {
+        "sel": [
+          "Umidade e oxigenação",
+          "pH ao longo do processo e liberação de amônia (cheiro)"
+        ],
+        "outro": ""
+      },
+      "substancias": "As substâncias são borra de café (tem cafeína e matéria orgânica), terra, água.",
+      "tipo_transf": "Ainda não sabemos",
+      "reacao": "Secar a borra: borra molhada → borra seca + vapor de água (",
+      "riscos": "Não colocar carne, laticínios, óleo ou fezes de animais domésticos\nLuvas; cuidado com chorume\nTampa e telas para evitar moscas e roedores\n\n",
+      "demo_qui": "naoo sei"
+    },
+    "e9": {
+      "resultado": "nao sei",
+      "limitacoes": "nao sabemos ainda",
+      "observacoes": "naio"
+    },
+    "e10": {
+      "financeiro": {
+        "unidade": "borros de cafes",
+        "fixos": [
+          {
+            "item": "-banner",
+            "valor": ""
+          }
+        ],
+        "variaveis": [
+          {
+            "item": "",
+            "valor": "5,00"
+          },
+          {
+            "item": "",
+            "valor": ""
+          }
+        ],
+        "preco": "5,00",
+        "meta": "10",
+        "impactoQtd": "litros",
+        "impactoUnid": "tborro"
+      },
+      "impacto_esperado": "borras reproveitadas\n",
+      "canais": {
+        "sel": [
+          "Na feira da escola",
+          "Instagram",
+          "WhatsApp"
+        ],
+        "outro": ""
+      },
+      "parceiros": "Quem fornece o material são as duas cafeterias. Quem pode ajudar a vender é o avô do Aluno B, que produz mudas."
+    },
+    "e11": {
+      "gancho": "Você sabia que as duas cafeterias aqui perto jogam fora mais de 150 kg de borra de café por mês? ou ",
+      "demonstracao": "O VIS=",
+      "materiais_feira": {
+        "sel": [
+          "Banner",
+          "Tabela de preços"
+        ],
+        "outro": ""
+      },
+      "divisao_fala": "Aluna A: a frase de abertura, o problema e o negócio. Aluna C: a Biologia e os resultados. Aluno B: a Química e as contas.",
+      "perguntas_temidas": "o cafe nao fara mal"
+    },
+    "e12": {
+      "aprend_bio": "Aprendemos que se colocarmos muita substancia estraga",
+      "aprend_qui": "Aprendemos que a mesma substância (cafeína) pode ajudar ou atrapalhar, dependendo da quantidade.\n\n",
+      "aprend_mat": "os graficos, medidas ",
+      "uso_ia": "nao usamos",
+      "futuro": "talvez"
+    }
+  },
+  "diario": [],
+  "usoPrompts": [],
+  "atualizado": "2026-10-02T13:17:19.594Z",
+  "exportado": "2026-10-02T13:17:19.595Z"
+}

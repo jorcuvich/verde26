@@ -1,0 +1,54 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g3b",
+  "respostas": {
+    "e1": {
+      "papeis": {
+        "Pietro H.": [
+          "coord"
+        ],
+        "Felipe M.": [
+          "mat"
+        ],
+        "Andreas": [
+          "com"
+        ]
+      },
+      "forcas": {
+        "sel": [
+          "Falar em público",
+          "Mexer no celular e no computador",
+          "Construir e montar coisas",
+          "Pesquisar"
+        ],
+        "outro": ""
+      },
+      "combinados": "Vamos nos reunir, Vamos conversar, Se alguém não conseguir fazer a tarefa, ",
+      "nome_equipe": "Projeto_X"
+    },
+    "e2": {
+      "ja_sabemos": "sabemos que as frutas é lixo orgãnico, e plasticos sacola canudo não são orgãnico",
+      "duvidas": "- O que aconteceria com o planeta Terra se os organismos decompositores (fungos e bactérias) deixassem de existir?\n- De que forma a compostagem de resíduos orgânicos em casa imita o processo natural de ciclagem da matéria?\n- Qual é o papel dos decompositores no ciclo do nitrogênio e do carbono na natureza?",
+      "fontes": {
+        "sel": [
+          "Livro didático",
+          "Inteligência artificial (conferindo depois)"
+        ],
+        "outro": ""
+      }
+    }
+  },
+  "diario": [
+    {
+      "id": "d1790943652214",
+      "data": "2026-10-02",
+      "tipo": "O que fizemos",
+      "autor": "Equipe toda",
+      "texto": "Missão 1: decidimos as funçoens dos membros e o nome do grupo"
+    }
+  ],
+  "usoPrompts": [],
+  "atualizado": "2026-10-02T13:32:34.394Z",
+  "exportado": "2026-10-02T13:32:34.395Z"
+}

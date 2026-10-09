@@ -1,0 +1,186 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g1",
+  "respostas": {
+    "e1": {
+      "papeis": {
+        "Adryan": [
+          "com"
+        ],
+        "Rayane": [
+          "coord",
+          "qui"
+        ],
+        "Pietro Tavares": [
+          "mat",
+          "com"
+        ],
+        "Josué": [
+          "bio"
+        ]
+      },
+      "forcas": {
+        "sel": [
+          "Desenhar",
+          "Escrever",
+          "Falar em público",
+          "Construir e montar coisas",
+          "Fazer vídeos e posts",
+          "Pesquisar",
+          "Organizar"
+        ],
+        "outro": ""
+      },
+      "combinados": "Vamos nos reunir na casa de um dos integrantes para montar o workshop, vamos conversar pelo celular e na sala, se alguém não fizer a parte dele, irá apresentar.",
+      "nome_equipe": "Equipe RayRay"
+    },
+    "e2": {
+      "ja_sabemos": "Já sabemos quais resíduos produzimos em sala e a quantidade.",
+      "duvidas": "Por que produzimos bastante lixo em sala?\nQuanto de lixo é produzido em um ano?\nO que acontece quando o gari recolhe a sacola de lixo produzida em sala?",
+      "fontes": {
+        "sel": [
+          "Livro didático",
+          "Sites do governo",
+          "Inteligência artificial (conferindo depois)"
+        ],
+        "outro": ""
+      }
+    },
+    "e3": {
+      "problema": "No mundo todo, muitas pessoas ainda jogam lixo no chão, e isso causa entupimento de bueiros, enchentes, proliferação de doenças e grave poluição ambiental.",
+      "onde": "Nas nossas casas",
+      "afetados": "Isso prejudica o mundo todo, não importa quem seja.",
+      "evidencias": "Nós vimos que a maioria das vezes ocorre alagamentos por causa do entupimento de bueiros com lixo",
+      "tamanho": "Cada brasileiro produz em média de 1kg a 1,14kg de resíduos por dia.",
+      "pergunta": "Podemos parar de jogar lixo em lugares impróprios."
+    },
+    "e4": {
+      "ideias_brutas": "Colocar mais lixeiras na rua.\nNão jogar lixos na rua.\nAjudar com a limpeza da cidade.\n",
+      "tipo_solucao": "Um serviço (algo que se faz para alguém)",
+      "ideia": "Ela resolve o problema porque quanto mais ajudarmos a manter a cidade limpa, mas rápido ela vai se recuperar da poluição ambiente.",
+      "como_funciona": "1. Primeiro, vem do consumo diário das pessoas\n2. Depois, ocorre o descarte do material gerado\n3. Em seguida, o resíduo é coletado e direcionado para a triagem ou tratament adequado\n4. Por fim, o material é reciclado ou destinado ao destino final correto.",
+      "publico": "Quem vai comprar são as pessoas, muitas vezes para reutilizar em hortas.",
+      "proposta_valor": "Nós comprariamos para servir de adubo para plantações.",
+      "nome_negocio": "Ajuda para descartar os resíduos corretamente."
+    },
+    "e7": {
+      "var_indep": "Vamos mudar o papel reciclado. As amostras vão ser: 0% de papel, 15% de papelão e 20% de pontas de lápis",
+      "grandezas": "Vamos medir a quantidade de papéis e pesar os sacos de lixoss.",
+      "var_ctrl": "Vai ficar igual: quantidade de sacos de lixo.",
+      "repeticoes": "4 vezes ou mais",
+      "plano_coleta": "Vamos usar uma balança",
+      "hipotese": "Nós achamos que iremos retirar um saco de lixo inteiro por dia de cada sala, porque os alunos produzem bastante lixo.",
+      "ferramentas_mat": {
+        "sel": [
+          "Gráficos de setores e de barras",
+          "Média e estimativa por pessoa por dia (kg/aluno/dia)"
+        ],
+        "outro": ""
+      }
+    },
+    "e8": {
+      "prototipo": "Vamos montar o papel do zero.",
+      "materiais": " Equipamentos Principais\n• Moldura com tela (Forma e Contra-forma): Duas molduras de madeira idênticas, sendo que uma delas deve ter uma tela fina (como tela de mosquiteiro ou nylon) bem esticada e grampeada.\n• Liquidificador: Para triturar o papel e transformá-lo em polpa.\n• Bacia grande ou cuba: Deve ser larga e profunda o suficiente para mergulhar a moldura de madeira na horizontal.\n• Panos absorventes ou feltro: Para transferir o papel molhado e absorver o excesso de água.\n• Esponja: Para pressionar a tela e retirar o excesso de umidade.\n📝 Ingredientes\n• Papel usado: Jornais, revistas, folhas de caderno, caixas de ovo ou impressões velhas (evite papéis plastificados ou fotográficos).\n• Água: Para bater no liquidificador e encher a bacia.\n• Elementos opcionais: Flores secas, folhas, linhas coloridas ou glitter (para decorar) e corante alimentício (se quiser um papel colorido).\nSe você quiser, posso te ajudar com os próximos passos! Me avise se preferir:\n• O passo a passo detalhado de como fazer a produção.\n• Dicas de como construir sua própria moldura caseira gastando quase nada.\n• Técnicas para deixar o papel mais liso e fácil para escrever.\n    \nCheque as informações importantes\nÉ recomendável verificar as informações em várias fontes\nDispensar\nSaiba como\nAs respostas da IA podem conter erros.        ",
+      "procedimento": "\n1. Pique o papel: Rasgue os papéis em pedaços bem pequenos para facilitar o processo.\n2. Deixe de molho: Coloque os pedaços em um recipiente com água e deixe descansar por algumas horas ou até 24 horas para amolecer as fibras.\n3. Bata no liquidificador: Coloque o papel amolecido com um pouco de água no liquidificador e bata até formar uma mistura homogênea e pastosa.\n4. Prepare a bacia: Despeje essa pasta em uma bacia grande e adicione mais água, misturando bem para diluir a polpa.\n5. Pesque a massa: Mergulhe a peneira na bacia na horizontal e puxe-a para cima de forma uniforme, recolhendo uma camada fina da massa sobre a tela.\n6. Remova o excesso de água: Deixe escorrer um pouco e utilize uma esponja com cuidado sobre o verso da peneira para absorver mais a água.\n7. Desinforme o papel: Vire a peneira com o papel úmido sobre um pano de algodão limpo.\n8. Seque: Deixe secar em um local arejado por cerca de 24 horas antes de puxar o papel pronto do tecido.",
+      "seguranca": "Vamos usar luvas e o que precisar cortar os professores irão ajudar.",
+      "supervisao": "Não tem nenhum risco"
+    }
+  },
+  "diario": [
+    {
+      "id": "d1790341869624",
+      "data": "2026-09-25",
+      "tipo": "O que fizemos",
+      "autor": "Equipe toda",
+      "texto": "Missão 1: Hoje nós decidimos como vamos organizar o trabalho"
+    },
+    {
+      "id": "d1790944469084",
+      "data": "2026-10-02",
+      "tipo": "O que fizemos",
+      "autor": "Equipe toda",
+      "texto": "Missão 4: Hoje nós decidimos o que trazer para fazer um projeto"
+    }
+  ],
+  "usoPrompts": [
+    {
+      "id": "p_semana",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_semana",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_mapa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_mapa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_mapa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    },
+    {
+      "id": "p_pesquisa",
+      "data": "2026-09-25"
+    }
+  ],
+  "atualizado": "2026-10-02T13:18:16.788Z",
+  "exportado": "2026-10-02T13:18:16.789Z"
+}

@@ -1,0 +1,50 @@
+{
+  "app": "incubadora-verde",
+  "versao": 1,
+  "grupo": "g2",
+  "respostas": {
+    "e1": {
+      "papeis": {
+        "Francieli": [
+          "com"
+        ],
+        "Lara": [
+          "qui",
+          "mat"
+        ],
+        "Geovana": [
+          "bio"
+        ],
+        "Emily": [
+          "coord"
+        ]
+      },
+      "forcas": {
+        "sel": [
+          "Desenhar",
+          "Escrever",
+          "Falar em público",
+          "Cozinhar",
+          "Organizar"
+        ],
+        "outro": ""
+      },
+      "combinados": " Vamos nos reunir nas aulas, Vamos conversar pelo celular, Se alguém não conseguir fazer a tarefa irá sair do grupo.",
+      "nome_equipe": "reciclável"
+    },
+    "e2": {
+      "ja_sabemos": "tem que picotar o papel, assim, reciclando e transformando em folhas novas.",
+      "duvidas": "Por que é importante reciclar?\nQuanto tempo vocês demoraram para juntar todos esses materiais\nO que acontece quando jogamos lixo no lugar errado?",
+      "fontes": {
+        "sel": [
+          "Inteligência artificial (conferindo depois)"
+        ],
+        "outro": "com os professores"
+      }
+    }
+  },
+  "diario": [],
+  "usoPrompts": [],
+  "atualizado": "2026-10-02T13:34:11.480Z",
+  "exportado": "2026-10-02T13:34:11.481Z"
+}
